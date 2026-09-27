@@ -47,7 +47,7 @@ struct ContentView: View {
                     }
                 }
             }
-            .navigationTitle("เมนูร้านอาหาร")
+            .navigationTitle("รายการอาหาร")
         }
     }
 }
